@@ -14,6 +14,8 @@ Easy Integration: Simple to integrate into any Unity project with minimal setup 
 
 Customizable UI: Easily change the look and feel of the calendar to match your project's aesthetic.
 
+Responsive Ui: The ui made in the sample scene is carefully made to fit into any screen size and ratio.
+
 
 Installation:
 
